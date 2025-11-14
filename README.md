@@ -1,18 +1,18 @@
 # assignment 
 https://harmonious-tulumba-c85160.netlify.app/
-<h2>🧠 TechLearn — Learn, Teach & Explore Tech Easily</h2>
+🧠 TechLearn — Learn, Teach & Explore Tech Easily
 
-<h3>TechLearn is an interactive and educational web platform designed for students, beginners, and tech enthusiasts to explore various domains of technology such as Web Development, Python, Data Structures, Machine Learning, and more.
+TechLearn is an interactive and educational web platform designed for students, beginners, and tech enthusiasts to explore various domains of technology such as Web Development, Python, Data Structures, Machine Learning, and more.
 
-It provides access to tutorials, practice platforms, job portals, and expert guidance — all in one place.</h3>
-<p>
-<h2>🧾 Overview</h2>
+It provides access to tutorials, practice platforms, job portals, and expert guidance — all in one place.
+
+🧾 Overview
 TechLearn is website designed to:
 Help users explore and learn various tech topics.
 This project was created using HTML, CSS, and JavaScript and focuses on responsive design, clean UI, and interactive user experience.
-</p>
 
-<h3>
+
+
 🚀 Features
 ✅ Hero Section — eye-catching introduction with a typewriter animation.
 ✅ Topics Section — grid layout with attractive course cards, ratings, and external links.
@@ -20,15 +20,13 @@ This project was created using HTML, CSS, and JavaScript and focuses on responsi
 ✅ Job Portals — access to top job/internship portals for students and professionals.
 ✅ Contact Form — allows users to reach out or send feedback.
 ✅ Footer Section — includes credits and copyright.
-</h3>
 
-<p>
+
 💻 Tech Stack
 Technology	Purpose
 HTML5	Structure and layout of the webpage
 CSS3	Styling, responsiveness, and animations
 JavaScript
-</p>
 
 
 📁 Project Structure
