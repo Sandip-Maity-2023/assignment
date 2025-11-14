@@ -6,16 +6,14 @@
 It provides access to tutorials, practice platforms, job portals, and expert guidance — all in one place.</h3>
 <p>
 <h2>🧾 Overview</h2>
-TechLearn is a front-end educational website designed to:
+TechLearn is website designed to:
 Help users explore and learn various tech topics.
 This project was created using HTML, CSS, and JavaScript and focuses on responsive design, clean UI, and interactive user experience.
 </p>
 
 <h3>
 🚀 Features
-✅ Responsive Navbar — with smooth scrolling and active link highlighting.
 ✅ Hero Section — eye-catching introduction with a typewriter animation.
-✅ Dropdown Menu — interactive “Explore” button with multiple quick-access options.
 ✅ Topics Section — grid layout with attractive course cards, ratings, and external links.
 ✅ Practice Platforms — direct links to major coding platforms like LeetCode, GFG, etc.
 ✅ Job Portals — access to top job/internship portals for students and professionals.
@@ -40,12 +38,11 @@ TechLearn/
 │
 └── README.md            # Project documentation (this file)
 
-<p>
+
 ⚙️ Working 
 1. Header & Navigation
 Displays the website name TechLearn.
 Contains navigation links (Home, Topics, Practice, Jobs, Contact).
-Uses sticky positioning to remain visible on scroll.
 Highlights the active section when clicked.
 
 2. Hero Section
@@ -57,6 +54,7 @@ Contains an Explore button that toggles a dropdown with options like:
 💬 1:1 Expert Session
 🧠 Personalized Feed
 🌐 Build Your Network
+
 3. Topics Section
 Displays various learning categories in cards.
 
@@ -115,4 +113,4 @@ Developed & Designed By:
 💡 Sandip Maity
 🎓 B.Tech in Computer Science and Engineering (3rd Year)
 📅 © 2025 TechLearn — All Rights Reserved.
-</p>
+
