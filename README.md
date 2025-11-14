@@ -8,9 +8,6 @@ It provides access to tutorials, practice platforms, job portals, and expert gui
 <h2>🧾 Overview</h2>
 TechLearn is a front-end educational website designed to:
 Help users explore and learn various tech topics.
-Provide quick access to trusted practice platforms.
-Direct users to job portals for career opportunities.
-Offer expert guidance and networking possibilities.
 This project was created using HTML, CSS, and JavaScript and focuses on responsive design, clean UI, and interactive user experience.
 </p>
 
