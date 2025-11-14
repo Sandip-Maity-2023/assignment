@@ -5,7 +5,7 @@
 
 It provides access to tutorials, practice platforms, job portals, and expert guidance — all in one place.</h3>
 <p>
-🧾 Overview
+<h2>🧾 Overview</h2>
 TechLearn is a front-end educational website designed to:
 Help users explore and learn various tech topics.
 Provide quick access to trusted practice platforms.
@@ -34,7 +34,7 @@ CSS3	Styling, responsiveness, and animations
 JavaScript
 </p>
 
-<p>
+
 📁 Project Structure
 TechLearn/
 │
@@ -42,7 +42,6 @@ TechLearn/
 ├── /img/                # Folder containing image assets (web.png, py.png, etc.)
 │
 └── README.md            # Project documentation (this file)
-</p>
 
 <p>
 ⚙️ Working 
